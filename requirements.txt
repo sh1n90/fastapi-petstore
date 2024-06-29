@@ -1,0 +1,8 @@
+fastapi
+fastapi-utils
+pydantic
+authlib
+python-jose
+requests
+PyJWT==2.8.0
+fastapi-auth0
